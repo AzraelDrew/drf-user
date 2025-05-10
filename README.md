@@ -5,7 +5,7 @@
   "username":"qwe123",
   "password":"qweasd123"
 }
-
+```
 - login
 ``` json
 {
@@ -14,3 +14,4 @@
   "password":"qweasd123",
   "choice":"email"
 }
+```
